@@ -1,0 +1,18 @@
+{
+    "title": "Remix",
+    "version": "1.0.0",
+    "icon": "/test/icon.svg",
+    "chat": "https://gitter.im/ethereum/play",
+    "lessons": [{
+      "lesson": "https://www.youtube.com/watch?v=4CsH5xTxhSA",
+      "tool": "https://remix.readthedocs.io/en/latest/",
+      "info": ""
+    }],
+      "needs": [
+        "https://github.com/ffakk/workshop-control-structures/workshop.json"
+        "https://github.com/ffakk/workshop-functions-calls/workshop.json"
+    ],
+    "unlocks": [
+      ""
+    ]
+  }
